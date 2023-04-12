@@ -1,0 +1,42 @@
+{
+    "common":{
+        "km":{
+            "type": "metric",
+            "cm": "100000"
+        },
+        "m":{
+            "type":"metric",
+            "cm": 100
+        },
+        "mm":{
+            "type":"metric",
+            "cm": 0.1
+        },
+        "mi":{
+            "type": "imperial",
+            "in": 63360
+        },
+        "yd":{
+            "type":"imperial",
+            "in": 36
+        },
+        "ft":{
+            "type":"imperial",
+            "in": 12
+        }
+    },
+
+    "weird":{
+        "obama":{
+            "cm": 187,
+            "in": 73.6
+        },
+        "hotdog":{
+            "cm": 15,
+            "in": 6
+        }
+    }
+}
+
+
+
